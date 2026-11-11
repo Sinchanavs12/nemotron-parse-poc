@@ -13,7 +13,7 @@ from dotenv import load_dotenv
 
 PDF_PATH = "samples/sample.pdf"
 IMAGE_FOLDER = "outputs/images"
-OUTPUT_FOLDER = "outputs/raw"
+OUTPUT_FOLDER = "outputs"
 
 API_URL = (
     "https://ai.api.nvidia.com/v1/retrieval/"
